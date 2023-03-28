@@ -1,0 +1,5 @@
+Define Monolithic architecture - Monolithic architecture is a software design pattern where an entire application is built as a single, indivisible unit. In this architecture, all the application's components, such as the user interface, business logic, and database access, are tightly coupled and packaged together as a single deployable artifact.
+Explain microservices in your own understanding - Microservices allows greater flexibility and agility in the development process. Microservice allows an application to be modified and updated without affecting the entire system.
+Which of the backend architecture appeals to you and why? - As explained earlier, this architecture divides the application into a collection of small, independent, and loosely coupled services, each responsible for performing a specific business capability. Each microservice can be developed, deployed, and scaled independently, allowing for greater flexibility and agility in the development process. 
+Is Nodejs a multithreaded language? No
+What does REPL stand for? - REPL stands for Read-Evaluate-Print-Loop
